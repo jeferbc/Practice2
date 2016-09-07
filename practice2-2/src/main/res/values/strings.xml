@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practice2-2</string>
+    <string name="First_number">Type the first number</string>
+    <string name="Second_number">Type the Second number</string>
+    <string name="Add">Suma</string>
+    <string name="Sub">Resta</string>
+    <string name="Mult">Multiplicacion</string>
+    <string name="Div">Division</string>
+    <string name="Send">Enviar</string>
+    <string name="Text_View">Resultado</string>
+    <string name="Error">Digita Este Campo</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practice2-3</string>
+    <string name="Cuadro">Cuadro</string>
+    <string name="Triangulo">Triangulo</string>
+    <string name="Rectangulo">Rectangulo</string>
+    <string name="Circulo">Circulo</string>
+    <string name="Instruccion">Seleccione la figura a calcular Area</string>
+    <string name="Base">Ingrese la Base</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Altura">Ingrese Altura</string>
+    <string name="Radio">Ingrese Radio</string>
+    <string name="Error">Digite este campo</string>
+
+</resources>

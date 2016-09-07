@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Practice2-4</string>
+    <string name="Login">Login: </string>
+    <string name="Password">Contraseña: </string>
+    <string name="Password1">Repita Contraseña: </string>
+    <string name="Correo">Correo: </string>
+    <string name="Masculino">M</string>
+    <string name="Femenino">F</string>
+    <string name="Sexo">Sexo: </string>
+    <string name="Hobbie1">Hobbie1 </string>
+    <string name="Hobbie2">Hobbie2 </string>
+    <string name="Hobbie3">Hobbie3 </string>
+    <string name="Hobbie4">Hobbie4 </string>
+    <string name="Enviar">Enviar </string>
+    <string name="Date">Fecha De Nacimiento</string>
+    <string name="bDate">Seleccionar Fecha</string>
+    <string name="bHobbies">Seleccione Hobbies</string>
+    <string-array name="Cities_array">
+        <item>Selecciona Tu Ciudad</item>
+        <item>Bogota</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Bucaramanga</item>
+        <item>Cartagena de Indias</item>
+        <item>Barranquilla</item>
+        <item>Pereira</item>
+        <item>Santa Marta</item>
+        <item>Cucuta</item>
+        <item>Manizales</item>
+        <item>Ibague</item>
+        <item>Monteria</item>
+        <item>Pasto</item>
+        <item>Armenia</item>
+    </string-array>
+
+</resources>
